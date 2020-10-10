@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-10-06T09:29:24.535Z</updated>
+  <updated>2020-10-10T09:24:06.011Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>前段</title>
-    <link href="/2020/10/06/%E5%89%8D%E6%AE%B5/"/>
-    <id>/2020/10/06/前段/</id>
-    <published>2020-10-06T09:27:28.000Z</published>
-    <updated>2020-10-06T09:29:24.535Z</updated>
+    <title>谷歌浏览器</title>
+    <link href="/2020/10/10/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    <id>/2020/10/10/谷歌浏览器/</id>
+    <published>2020-10-10T09:12:50.000Z</published>
+    <updated>2020-10-10T09:24:06.011Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,32 @@
       
         
         
-          &lt;p&gt;ul ol li
+          &lt;p&gt;最近我又感受到了那个真理，和优秀的人在一起也会变优秀呢，感谢我的两个小伙伴。&lt;br&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>前段</title>
+    <link href="/2020/10/06/%E5%89%8D%E6%AE%B5/"/>
+    <id>/2020/10/06/前段/</id>
+    <published>2020-10-06T09:27:28.000Z</published>
+    <updated>2020-10-10T10:05:34.941Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;行内元素加了浮动后就会具有行内块元素的特点&lt;br&gt;ul ol li 都是块级元素&lt;br&gt;ul 可以设计一行多个盒子的界面&lt;/p&gt;
+&lt;h4 id=&quot;例如&quot;&gt;&lt;a href=&quot;#例如&quot; class=&quot;headerlink&quot;
         
       
     
